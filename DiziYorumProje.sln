@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziYorumProje", "DiziYorumProje\DiziYorumProje.csproj", "{01EEB2A4-4D30-4972-A58F-0F5E78E74D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EEB2A4-4D30-4972-A58F-0F5E78E74D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EEB2A4-4D30-4972-A58F-0F5E78E74D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EEB2A4-4D30-4972-A58F-0F5E78E74D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EEB2A4-4D30-4972-A58F-0F5E78E74D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4DAD5C3-DEC4-40E9-8B9A-A7B0586CE3A0}
+	EndGlobalSection
+EndGlobal
